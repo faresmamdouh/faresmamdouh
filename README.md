@@ -32,7 +32,7 @@
 
 
 - ### I’m currently learning
-  
+  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
 <!--![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)-->
