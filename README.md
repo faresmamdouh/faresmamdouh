@@ -5,7 +5,7 @@
 
 
 
-Welcome to my GitHub! I’m a Data Scientist. I’m currently I am a third-year student at **Menoufia University**, majoring in **Data Science** at the **Faculty of Artificial Intelligence**. I’m focused on mastering Machine Learning,and Deep Learning, while constantly expanding my skill set in the field of AI.
+Welcome to my GitHub! I’m a Data Scientist. I’m currently a third-year student at **Menoufia University**, majoring in **Data Science** at the **Faculty of Artificial Intelligence**. I’m focused on mastering Machine Learning,and Deep Learning, while constantly expanding my skill set in the field of AI.
 
 ## 🧠 What I'm Learning
 - **Machine Learning** and **Deep Learning**
