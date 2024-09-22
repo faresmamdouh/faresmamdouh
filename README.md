@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m a Data Scientist. I’m currently studying at **Meno
 - **Data Science**: Machine Learning, Deep Learning, Data Visualization
 - **Business Intelligence**: Excel, Tableau, Power BI, SSIS, SSAS, SSRS, Data Warehousing
 
-  <!--
+<!--
 ## 🚀 Projects
 Here are a few notable projects that I've worked on:
 - 🩺 [Health Assistant App](https://github.com/faresmamdouh/health-assistant) – A web application for disease prediction (Diabetes, Heart Disease, Parkinson’s) using **Streamlit** and machine learning algorithms.
@@ -19,7 +19,8 @@ Here are a few notable projects that I've worked on:
 - 🤖 [YOLOv8 Pose Estimation](https://github.com/faresmamdouh/yolov8-pose) – A project focused on using YOLOv8 for cheating detection with pose estimation.
 - 📈 **BI Dashboards** (Coming soon!) – Power BI and Tableau dashboards analyzing business data and visualizing insights.
 
-Feel free to check out my repositories for more projects and contributions!  -->
+Feel free to check out my repositories for more projects and contributions!  
+-->
 
 
 ## 🌐 Connect with Me
