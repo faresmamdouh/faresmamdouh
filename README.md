@@ -19,8 +19,8 @@ Here are a few notable projects that I've worked on:
 - 🤖 [YOLOv8 Pose Estimation](https://github.com/faresmamdouh/yolov8-pose) – A project focused on using YOLOv8 for cheating detection with pose estimation.
 - 📈 **BI Dashboards** (Coming soon!) – Power BI and Tableau dashboards analyzing business data and visualizing insights.
 
-Feel free to check out my repositories for more projects and contributions!
--->
+Feel free to check out my repositories for more projects and contributions!  -->
+
 
 ## 🌐 Connect with Me
 - **LinkedIn**: [Fares Mamdouh](https://www.linkedin.com/in/faresmamdouh/)
